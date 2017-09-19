@@ -103,7 +103,7 @@ Elles peuvent être télécharger sur le site de `Treetagger
 <http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/>`_ même sous "Parameter files"
 Le choix de la langue est affiché par ordre alphabétique.
 
-.. figure:: figures/langue.png
+.. figure:: figures/tt_gg_langue.png
     :align: center
     :alt: Advanced interface of the Text Tree widget
 
